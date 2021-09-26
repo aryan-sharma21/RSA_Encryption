@@ -32,3 +32,8 @@ _Decryption_
 - Ciphertext: C
 - Plaintext: P=Cd mod n.
 ```
+_String accomodation_
+```
+Initially the code worked efficiently for any integer (<=4 digits.)
+I have accomodated string encryption by converting each character to it's ascii value and concatenating it's encrypted form and later displaying it's decrypted form. 
+```
